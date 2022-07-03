@@ -1,4 +1,4 @@
-# hyundai_used_car_analysis
+# Predicting used car prices
 Objective:
 1. Supervised Learning: Linear Regression
 2. One-hot encoding
